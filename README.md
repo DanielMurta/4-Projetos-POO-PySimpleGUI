@@ -1,4 +1,9 @@
-Simulador de Dado
+4 Projetos utilizando Programação Orientada a Objetos (POO) + Interface gráfica PySimpleGUI
 
-Programa que simula um dado, utilizando conceitos de POO e importando o módulo PySimpleGUI para gerar uma simples 
-janela interativa.
+Projeto 1 - Simulador de Dados:
+
+
+
+
+Projeto 2 - Jogo Advinhação:
+
