@@ -32,9 +32,5 @@ class DecidaPorMim:
                 self.janela['Pergunta'].update('')
                 self.janela['msg'].update('')
 
-
-
-
-
 Jogador = DecidaPorMim()
 Jogador.Iniciar()
