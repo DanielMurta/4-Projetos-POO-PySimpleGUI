@@ -22,8 +22,6 @@ class SimuladorDados():
                 self.GerarValorDado()
             elif eventos == 'não' or eventos == 'n':
                 print('Programa Encerrado!')
-            else:
-                print('Digite "sim" ou "não"')
         except:
             print('Ocorreu um erro ao receber sua resposta')
 
@@ -32,5 +30,7 @@ class SimuladorDados():
         print(random.randint(self.valor_minimo, self.valor_maximo))
 
 
+# Instância da classe SimuladorDados
 simulador = SimuladorDados()
+# Chama a função Iniciar
 simulador.Iniciar()

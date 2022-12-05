@@ -48,5 +48,7 @@ class JogoAdvinhacao:
         return self.valor
 
 
+# Intância da classe JogoAdvinhacao
 Jogador = JogoAdvinhacao()
+# Chama a fução Iniciar
 Jogador.Iniciar()
